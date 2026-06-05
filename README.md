@@ -20,6 +20,8 @@
 [![School](https://img.shields.io/badge/ESTIN-CS_Year_1-blue?style=for-the-badge)](https://estin.dz)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
+</div>
+
 ---
 
 ## 🖥️ Preview
@@ -27,8 +29,6 @@
 <br>
 
 <img width="1919" height="1037" alt="Preview" src="https://github.com/user-attachments/assets/df8577c5-fb5f-4755-b56a-6c915c140571" />
-
-</div>
 
 ---
 
@@ -123,6 +123,8 @@ make run
 <div align="center">
 
 ### Bakhouche Mohamed Qamar Eddine
+
+</div>
 
 🎓 Computer Science Student **1st Year**
 
