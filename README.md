@@ -20,14 +20,13 @@
 [![School](https://img.shields.io/badge/ESTIN-CS_Year_1-blue?style=for-the-badge)](https://estin.dz)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
+---
+
+## 🖥️ Preview
+
 <br>
 
 <img width="1919" height="1037" alt="Preview" src="https://github.com/user-attachments/assets/df8577c5-fb5f-4755-b56a-6c915c140571" />
-
-
-<br>
-
-**[ 📥 Download Screenshot ](preview.png)**
 
 </div>
 
@@ -131,7 +130,7 @@ make run
 🏫 [ESTIN](https://estin.dz) — Higher School of Computer Science, Béjaïa, Algeria
 💻 Passionate about low-level programming & computer architecture
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/qamro)
 
 </div>
 
@@ -139,13 +138,7 @@ make run
 
 ## 📜 License
 
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute it.
-
-```
-MIT License — Copyright (c) 2024 Bakhouche Mohamed Qamar Eddine
-```
-
-See the [LICENSE](LICENSE) file for full details.
+feel free to use, modify, and distribute it.
 
 ---
 
