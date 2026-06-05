@@ -122,12 +122,12 @@ make run
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/0?v=4" width="80" style="border-radius:50%"/>
-
 ### Bakhouche Mohamed Qamar Eddine
 
-🎓 Computer Science Student — **1st Year**
+🎓 Computer Science Student **1st Year**
+
 🏫 [ESTIN](https://estin.dz) — Higher School of Computer Science, Béjaïa, Algeria
+
 💻 Passionate about low-level programming & computer architecture
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/qamro)
@@ -138,12 +138,12 @@ make run
 
 ## 📜 License
 
-feel free to use, modify, and distribute it.
+Feel free to use, modify, and distribute it.
 
 ---
 
 <div align="center">
 
-*Made with ❤️ and* `INT 0x80` — **ESTIN CS · Year 1 · Algeria**
+*Made with ❤️ and* `INT 0x80 👋`
 
 </div>
